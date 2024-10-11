@@ -20,7 +20,7 @@ A simple live server CLI in Go that serves files from a specified directory and 
 If you have Go installed, you can use:
 
 ```bash
-go install https://github.com/AaravShirvoikar/live-server
+go install github.com/AaravShirvoikar/live-server@latest
 ```
 
 ### Usage
