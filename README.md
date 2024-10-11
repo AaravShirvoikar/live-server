@@ -6,7 +6,7 @@ A simple live server CLI in Go that serves files from a specified directory and 
 
 - Serves static files (HTML, CSS, JS) from a specified directory.
 - Automatically reloads the browser when any file in the directory is changed.
-- Uses WebSocket to show updated files in real-time in your terminal.
+- Uses WebSocket to update files in real-time and display them in your terminal.
 
 ## Getting Started
 
